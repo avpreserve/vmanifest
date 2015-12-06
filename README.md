@@ -28,6 +28,7 @@ Current assumptions include:
     (these two variables are delimited by a single space)
 
 3) The script will write the results to a new folder created on the user's desktop called "md5_verification".
+
 4) That md5 is the algorithm used for the original checksums.
 
 
